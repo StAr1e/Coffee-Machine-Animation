@@ -1,6 +1,13 @@
 body{
     background-color: #000;
 }
+.h1{
+    margin-left: 630px;
+    margin-top: 480px;
+    font-size: 40px;
+    font-family: fantasy;
+    color:#ffffff;
+  }
 .container {
     width: 300px;
     height: 280px;
@@ -258,10 +265,4 @@ body{
     left: -8px;
     background-color: #000;
   }
-  .h1{
-    margin-left: 630px;
-    margin-top: 480px;
-    font-size: 40px;
-    font-family: fantasy;
-    color:#ffffff;
-  }
+  
